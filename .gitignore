@@ -13,3 +13,5 @@ test_run_dir/
 /*.json
 /*.fir
 *.jar
+.metals
+.vscode
